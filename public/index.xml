@@ -7,5 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Whatsmemo.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Whatsmemo is your personal memory assistant, designed to help you effortlessly capture and preserve your thoughts, ideas, and moments.
+Our Mission We believe that every fleeting thought and precious memory deserves to be saved. Whatsmemo aims to make the process of recording and revisiting your ideas as seamless as possible.
+What We Do Whatsmemo is a WhatsApp bot that instantly transcribes and organizes:
+Voice messages Images with text Text messages How It Works Add Whatsmemo to your WhatsApp contacts Send a voice note, image, or text whenever inspiration strikes Receive an instant transcription, neatly organized and searchable It&amp;rsquo;s that simple to preserve your thoughts!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact-us/</guid>
+      <description>Contact Us We&amp;rsquo;re here to help! If you have any questions, feedback, or need support with Whatsmemo, please don&amp;rsquo;t hesitate to reach out.
+Quick Contact Email: hi@whatsmemo.com Twitter: @ingaavu Support Hours Our team is available to assist you:
+Monday - Friday: 9:00 AM - 6:00 PM (IST) Saturday: 10:00 AM - 2:00 PM (IST) Sunday: Closed We strive to respond to all inquiries within 24 hours during business days.
+Feedback We value your input!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy-policy/</guid>
+      <description>Privacy Policy This Privacy Policy explains how we collect, use, and protect your personal information when you use Whatsmemo, a WhatsApp bot for transcribing voice, images, and text messages. By using Whatsmemo, you agree to the collection and use of your information as described in this policy.
+Information We Collect We may collect the following types of personal information:
+WhatsApp phone number Message content (voice messages, images, and text) Transcription results Any other information you voluntarily provide to us How We Use Your Information We use the collected information for the following purposes:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/terms-of-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/terms-of-service/</guid>
+      <description>Terms of Service Welcome to Whatsmemo. By using our service, you agree to these Terms of Service. Please read them carefully.
+1. Acceptance of Terms By using Whatsmemo, you agree to be bound by these Terms of Service and our Privacy Policy. If you don&amp;rsquo;t agree to these terms, please do not use our service.
+2. Description of Service Whatsmemo is a WhatsApp bot that transcribes voice messages, extracts text from images, and processes text messages to help users capture and organize their thoughts.</description>
+    </item>
+    
   </channel>
 </rss>
