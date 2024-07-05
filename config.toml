@@ -51,3 +51,18 @@ ignoreErrors = ["error-disable-taxonomy"]
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
+
+[menus]
+[[menus.main]]
+name="About"
+pageRef = "/about"
+[[menus.main]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+[[menus.main]]
+name= "Terms of Service"
+pageRef= "/terms-of-service"
+[[menus.main]]
+name= "Contact us"
+pageRef= "/contact-us"
+
