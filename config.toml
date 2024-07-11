@@ -6,7 +6,7 @@ baseURL = "/"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Whatsmemo"
+title = "Whatsmemo | WhatsApp Voice to Text"
 author = "Whatsmemo"
 copyright = "Copyright © 2024, Whatsmemo."
 languageCode = "en-US"
@@ -23,7 +23,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Whatsmemo brings journaling to where you already are – your WhatsApp. Text your reflections, send voice notes, or snap a picture of your handwritten entry. We’ll transcribe, organise, and preserve it all."
+  description = "Convert WhatsApp voice notes to text effortlessly with Whatsmemo. Journal and preserve your thoughts right where you are."
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -56,13 +56,4 @@ ignoreErrors = ["error-disable-taxonomy"]
 [[menus.main]]
 name="About"
 pageRef = "/about"
-[[menus.main]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-[[menus.main]]
-name= "Terms of Service"
-pageRef= "/terms-of-service"
-[[menus.main]]
-name= "Contact us"
-pageRef= "/contact-us"
 

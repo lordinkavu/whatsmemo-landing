@@ -1,4 +1,4 @@
-## Contact Us
+# Contact Us
 
 We're here to help! If you have any questions, feedback, or need support with Whatsmemo, please don't hesitate to reach out.
 

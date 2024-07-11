@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 This Privacy Policy explains how we collect, use, and protect your personal information when you use Whatsmemo, a WhatsApp bot for transcribing voice, images, and text messages. By using Whatsmemo, you agree to the collection and use of your information as described in this policy.
 

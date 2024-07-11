@@ -1,4 +1,4 @@
-## Terms of Service
+# Terms of Service
 
 Welcome to Whatsmemo. By using our service, you agree to these Terms of Service. Please read them carefully.
 

@@ -1,12 +1,12 @@
-## About
+# About
 
 Whatsmemo is your personal memory assistant, designed to help you effortlessly capture and preserve your thoughts, ideas, and moments.
 
-## Our Mission
+## Our mission
 
 We believe that every fleeting thought and precious memory deserves to be saved. Whatsmemo aims to make the process of recording and revisiting your ideas as seamless as possible.
 
-## What We Do
+## What we do
 
 Whatsmemo is a WhatsApp bot that instantly transcribes and organizes:
 
@@ -14,7 +14,7 @@ Whatsmemo is a WhatsApp bot that instantly transcribes and organizes:
 - Images with text
 - Text messages
 
-## How It Works
+## How it works
 
 1. Add Whatsmemo to your WhatsApp contacts
 2. Send a voice note, image, or text whenever inspiration strikes
@@ -22,15 +22,15 @@ Whatsmemo is a WhatsApp bot that instantly transcribes and organizes:
 
 It's that simple to preserve your thoughts!
 
-## Key Features
+## Key features
 
-- **Effortless Capture**: Record ideas hands-free with voice messages
+- **Effortless capture**: Record ideas hands-free with voice messages
 - **Visual Memories**: Extract text from images to save written notes or quotes
 - **Instant Organization**: All your thoughts are automatically categorized and searchable
 - **Always Available**: Capture ideas 24/7, wherever you are
 - **Multi-lingual**: Support for multiple languages to match your thought process
 
-## Why Choose Whatsmemo?
+## Why choose whatsmemo?
 
 - Never lose a brilliant idea again
 - Create a searchable archive of your thoughts and memories
@@ -38,16 +38,10 @@ It's that simple to preserve your thoughts!
 - Share your thoughts with others effortlessly
 - Build a personal knowledge base over time
 
-## Use Cases
+## Use cases
 
 - Capture sudden bursts of inspiration
 - Keep track of daily reflections or gratitude notes
 - Save quotes from books or articles you're reading
 - Record meeting notes or lecture summaries
 - Preserve travel memories and observations
-
-## Get Started
-
-For any questions or support, reach out to us at hi@whatsmemo.com.
-
-Start building your personal memory bank with Whatsmemo today!
