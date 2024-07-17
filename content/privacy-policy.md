@@ -4,10 +4,9 @@ This Privacy Policy explains how we collect, use, and protect your personal info
 
 ## Information We Collect
 
-We may collect the following types of personal information:
+We may collect the following types of information:
 
 - WhatsApp phone number
-- Message content (voice messages, images, and text)
 - Transcription results
 - Any other information you voluntarily provide to us
 
@@ -15,11 +14,8 @@ We may collect the following types of personal information:
 
 We use the collected information for the following purposes:
 
-- To provide and improve Whatsmemo's transcription services
-- To process and store your messages for transcription
+- To provide Whatsmemo's transcription services
 - To communicate with you and respond to your inquiries
-- To analyze usage patterns and enhance user experience
-- To send you service-related notifications and updates
 
 ## Data Sharing
 
@@ -44,9 +40,7 @@ We retain your messages and transcriptions for a limited time to provide the ser
 You have the right to:
 
 - Access your personal information
-- Request correction of inaccurate data
 - Request deletion of your data
-- Opt-out of the service
 
 To exercise these rights, please contact us using the information provided below.
 
